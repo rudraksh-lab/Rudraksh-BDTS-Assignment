@@ -4,18 +4,18 @@ Robot Framework has been used to create simple Test framework to cover three API
 
 # Rational for using Robot Framework
 
-AP Test Automation can be done through Cucumber + RestAssured/TestNG, JavaScript & Python scripts using HTTP Request & JSON Object Library functions however through Robot Framework is keyword driven development framework and standard keywords available in RequestsLibrary & In-built Library provides wide range of standard keyword based function which can be used to Automate API Tests with minimal code.
-The troubleshooting and reporting structure is also quite detailed and can be implemented through out of the box feature to maintain test suite and test case level logs.
+API Test Automation can be done through Cucumber + RestAssured/TestNG, JavaScript & Python scripts using HTTP Request & JSON Object Library functions however used Robot framewrk for automnation here as Robot Framework is keyword driven development framework and standard keywords available in RequestsLibrary & In-built Library provides wide range of standard keywords based function which can be used to Automate API Tests with minimal code.
+The troubleshooting and reporting structure is also quite detailed and can be implemented through out of the box feature to maintain test suites and test case level logs.
 
-Line of code and dependencies are quite minimal compared to any other API Testing framework and Inheritance from python makes it really fast to execute test and generate detailed summry reports & execution logs through inbuilt Python API calls.
+Line of code and dependencies are also quite minimal compared to any other API Testing framework and Inheritance from python makes it really fast to execute test and generate detailed summry reports & execution logs through inbuilt Python API calls.
 
-Robot Framework is open source and have wide user base which make it quite attractive to use, In addition to that the Extensive list of In-built and external libraries (selenium, HttpRequests, Appium, ssh & etc) supported by Robot makes it smartest framwork to Automate any Web, API, Desktop App and Infrastructure Testing.
+Robot Framework is open source and have wide user base which makes it quite attractive to use, In addition to that the Extensive list of In-built and external libraries (selenium, HttpRequests, Appium, ssh & etc) supported by Robot makes it smartest framwork to Automate any Web, API, Mobile, Desktop App and Infrastructure Testing.
 
 # Minimum requirement
 
-1.Python Versions/2.7 or Versions/3.0 or any higher latest version
+1. Python Versions/2.7 or Versions/3.0 or any higher latest version
 
-2.robotframework-requests library installation (steps to install the same given in Usage steps) 
+2. robotframework-requests library installation (steps to install the same given in Usage steps) 
 
 
 # Usage
